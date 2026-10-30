@@ -1,6 +1,6 @@
 # ARA 7.0 (2026) Pothole Segmentation - Anti Galau Team
 
-Repositori ini berisi keseluruhan *source code* dan solusi dari tim **Anti Galau** untuk kompetisi Data Science ARA 7.0 tahun 2026 (Institut Teknologi Sepuluh Nopember - ITS). Misi utama dari proyek ini adalah membangun sistem berbasis AI untuk melakukan *semantic segmentation* dalam memetakan area *pothole* (lubang jalan) secara otomatis dan presisi.
+Repositori ini berisi keseluruhan *source code* dan solusi dari tim **Anti Galau** untuk kompetisi Data Science ARA 7.0 tahun 2026 yang diselenggarakan oleh Institut Teknologi Sepuluh Nopember. Misi utama dari proyek ini adalah membangun sistem berbasis AI untuk melakukan *semantic segmentation* dalam memetakan area *pothole* (lubang jalan) secara otomatis dan presisi.
 
 ## 📌 Tantangan Utama
 Berdasarkan hasil *Exploratory Data Analysis (EDA)* yang mendalam pada *dataset*, terdapat beberapa tantangan teknis:
